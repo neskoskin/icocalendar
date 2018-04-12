@@ -1,0 +1,34 @@
+.name {
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+}
+
+.shortDescription {
+    font-size: 12px;
+    line-height: 1.33;
+}
+
+.date {
+    font-size: 15px;
+    color: #546e7a;
+    margin-bottom: 10px;
+}
+
+.website {
+    color: black;
+    text-decoration: underline;
+}
+
+tr.collapse.in {
+    display:table-row;
+  }
+
+.shade {
+    background-color: #f9f9f9;
+}
+
+#info {
+    width: 30px;
+    height: 30px;
+}
